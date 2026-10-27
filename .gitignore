@@ -1,0 +1,38 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Python environments
+.venv/
+venv/
+env/
+ENV/
+langchain_env/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local datasets and generated files
+data/
+datasets/
+*.csv
+*.xlsx
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
