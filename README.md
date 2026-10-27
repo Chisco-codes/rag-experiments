@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ***# RAG Experiments: Chunking and Retrieval***
 
 
@@ -107,4 +108,3 @@
 
 
 ***This repository is part of my ongoing journey in AI engineering, documenting what I test, what I observe, and what I learn.***
-
